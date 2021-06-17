@@ -1,1 +1,1 @@
-# jainqq-static
+# Jain Quantum Public assets
